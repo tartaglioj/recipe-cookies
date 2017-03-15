@@ -1,0 +1,35 @@
+<stylesheet>
+h1{
+  color: #29a;
+  /*grayscale 123456789abcdef */
+}
+h1{
+  color: #49a;
+}
+span1 {color:#2bc;
+}
+span2 {color:#2ce;
+}
+dt{
+  margin: .5em 0 -.75em 0;
+}
+figcaption{
+  margin: -1.5em 0 0 0;
+}
+a{
+  margin: -2em 0 0 .5em;
+}
+body{
+  background-color: #346;
+  color: #aaa;
+}
+h2{
+  color: #eed;
+}
+ul{
+  border: 2px solid #aaa;
+}
+li{
+  margin 0 0 .5em -1em;
+}
+</stylesheet>
